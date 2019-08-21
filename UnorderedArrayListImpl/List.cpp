@@ -12,7 +12,7 @@ List::List(void)
 List::~List(void)
 {
 }
-//Ndumiso Nzuza
+//Ndumiso Nzuza Changed
 bool List::IsEmpty () { return size==0;}
 bool List::IsFull () {return (size == MaxSize); }
 
